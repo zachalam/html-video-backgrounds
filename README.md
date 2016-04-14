@@ -6,3 +6,7 @@ A quick and easy way to add videos to your HTML backgrounds without a plugin.
 
 This github repo is part of a tutorial written by me. You can view the complete tutorial here: 
 https://zachalam.com/the-easiest-way-to-create-a-video-background-on-your-website/
+
+
+Thanks to sample-videos.com for providing the video background loop:
+http://www.sample-videos.com/
