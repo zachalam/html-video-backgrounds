@@ -1,0 +1,9 @@
+body { margin:0; font-family:serif; }
+
+/* our video styles */
+.video_bg { position:fixed; z-index:-100; width:100%; }
+
+/* holds our main text & content */
+.center { width:100%; text-align:center; }
+.main {  padding-top:3em; color:white; font-size:2em; max-width:500px; }
+.main h1 { font-size:3em; }
